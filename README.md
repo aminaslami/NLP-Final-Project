@@ -6,4 +6,5 @@
 
 That's important, in Google Colab please change the _Change Rum Time_ to _T4 GPU_ because some time you get error about Nivida and CUDA
 
+
 If you get error on code please contact with me, (aminaslamiaf@gmail.com), I'm appericate to help.
