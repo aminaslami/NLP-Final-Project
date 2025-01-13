@@ -15,7 +15,6 @@ If you get error on code please contact with me, (aminaslamiaf@gmail.com), I'm a
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Code and Directory Project - Path:
+**Code and Directory Project - Path:**
 
 <img width="960" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/500f61b2-5600-44f3-8b29-229f7718bd65" />
-
