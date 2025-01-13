@@ -11,7 +11,8 @@ If you get error on code please contact with me, (aminaslamiaf@gmail.com), I'm a
 
 **Dataset Path:**
 
-![Screenshot (500)](https://github.com/user-attachments/assets/3fd04fac-e510-45af-89b9-2f8e32dba25c)
+<img width="960" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/bd124c9e-7ad4-47aa-b70b-4cb2ae65f3f0" />
+
 
 
 Code and Directory Path:
