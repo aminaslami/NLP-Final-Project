@@ -5,11 +5,12 @@
 ### Running CUDA on Google Colab for free: https://medium.com/@zubair09/running-cuda-on-google-colab-d8992b12f767
 
 That's important, in Google Colab please change the _Change Rum Time_ to _T4 GPU_ because some time you get error about Nivida and CUDA
+![image](https://github.com/user-attachments/assets/2b1fd59f-7bf1-470a-96b5-42ff1c27e7a6)
+
 
 
 If you get error on code please contact with me, (aminaslamiaf@gmail.com), I'm appericate to help.
 
-When the project runing is fineshed you get this files also you can check it,
 
 
 
