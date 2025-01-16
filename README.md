@@ -9,6 +9,10 @@ That's important, in Google Colab please change the _Change Rum Time_ to _T4 GPU
 
 If you get error on code please contact with me, (aminaslamiaf@gmail.com), I'm appericate to help.
 
+When the project runing is fineshed you get this files also you can check it,
+
+
+
 **Dataset Path:**
 
 <img width="960" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/bd124c9e-7ad4-47aa-b70b-4cb2ae65f3f0" />
